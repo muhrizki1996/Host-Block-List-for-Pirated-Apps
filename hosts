@@ -133,8 +133,8 @@
 127.0.0.1       192.150.22.40
 127.0.0.1       192.150.8.100
 127.0.0.1       192.150.8.118
-#127.0.0.1       www.wip.adobe.com
-#127.0.0.1       www.wip1.adobe.com
+#127.0.0.1       www.wip.adobe.com   # The following are disabled as they may interfere
+#127.0.0.1       www.wip1.adobe.com  # when visiting the adobe.com website
 #127.0.0.1       www.wip2.adobe.com
 #127.0.0.1       www.wip3.adobe.com
 #127.0.0.1       www.wip4.adobe.com
@@ -302,7 +302,7 @@
 127.0.0.1       activation.cloud.techsmith.com
 127.0.0.1       oscount.techsmith.com
 127.0.0.1       updater.techsmith.com
-127.0.0.1       camtasiatudi.techsmith.com
+127.0.0.1       camtasiastudio.techsmith.com
 127.0.0.1       tsccloud.cloudapp.net
 127.0.0.1       assets.cloud.techsmith.com
 
@@ -359,7 +359,7 @@
 127.0.0.1       b.connectify.me
 127.0.0.1       bc.connectify.me
 127.0.0.1       data.connectify.me
-#127.0.0.1       news.connectify.me
+127.0.0.1       news.connectify.me
 
 #Alcohol Block Server
 127.0.0.1       serial.alcohol-soft.com
