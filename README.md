@@ -25,10 +25,10 @@ Can be used with (EN) / Bisa digunakan Dengan (ID):
 
 > ## How to Use (EN) / Cara Penggunaan (ID)
 - (EN) for Windows users: Download latest host file releases,
-  go-to: C:/Windows/system32/Drivers/etc/ and then, replace host file with releses version.
+  go-to: C:\Windows\system32\Drivers\etc\ and then, replace host file with releses version.
 
   (ID) untuk pengguna Windows: Unduh rilisan file host terbaru,
-  pergi-ke: C:/Windows/system32/Drivers/etc/ kemudian, timpa file host dengan versi rilis.
+  pergi-ke: C:\Windows\system32\Drivers\etc\ kemudian, timpa file host dengan versi rilis.
 - (EN) for AdBlock users: Copy this URL "https://raw.githubusercontent.com/muhrizki1996/Host-Block-List-for-Pirated-Apps/main/host" and paste to your AdBlock List URL in configuration menu.
   (ID) untuk pengguna pemblokir iklan: salin tautan ini "https://raw.githubusercontent.com/muhrizki1996/Host-Block-List-for-Pirated-Apps/main/host" dan tempelkan pada daftar tautan pemblokir anda di menu konfigurasi.
 
