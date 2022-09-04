@@ -43,11 +43,9 @@ Can be used with (EN) / Bisa digunakan Dengan (ID):
   <img src="/img/pihole.gif?raw=true" alt="PiHole" align="center">
 </details>
 
-<details>
 <summary><strong> AdGuardHome </strong></summary>
 <br>
   <img src="/img/adguardhome.gif?raw=true" alt="AdGuardHome" align="center">
-</details>
 
 > ## Additional for Windows and Adobe users (EN) / Tambahan untuk pengguna Windows dan Adobe (ID)
 - (EN) Windows + R then type services.msc, stop this 3 services; <b>Adobe Acrobat Update Service</b>, <b>Adobe Genuine Software Integrity Service</b>, and <b>Adobe Genuine Monitor Service</b>.
